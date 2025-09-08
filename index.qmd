@@ -3,7 +3,9 @@ title: "Dr. Julien P. Irmer"
 subtitle: "M.Sc. Math., M.Sc. Psych."
 ---
 
-![](assets/me.png){width=200px style="border-radius:50%;" fig-align="center"}
+![](/assets/me.png){width=200px style="border-radius:50%;" .d-block .mx-auto}
+
+<div class="landing-text">
 
 I am Post-Doc in the Psychological Methods Lab at Humboldt-Universität zu Berlin with a Master's in Mathematics and a Master's in Psychology form Goethe-University Frankfurt.  
 I obtained my PhD titled "*Model Selection and Estimation of Statistical Power in Nonlinear Structural Equation Modeling*" in 2024 from Goethe-University Frankfurt – for which I received the prize for the best dissertation of the natural sciences.  
@@ -26,3 +28,5 @@ I am one of two young researcher representatives of the Methods and Evaluation D
 In this role, I help shape the methodological agenda of the discipline, represent early-career researchers at the national level, and lead initiatives such as conferences, workshops, and networking events that strengthen the visibility and collaboration of the next generation of scholars.
 
 Find out more about my publications, talks, workshops, software packages, and honorary work – check out my [CV](cv.qmd).
+
+</div>
