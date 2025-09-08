@@ -1,0 +1,28 @@
+---
+title: "Dr. Julien P. Irmer"
+subtitle: "M.Sc. Math., M.Sc. Psych."
+---
+
+![](assets/me.png){width=200px style="border-radius:50%;" fig-align="center"}
+
+I am Post-Doc in the Psychological Methods Lab at Humboldt-Universität zu Berlin with a Master's in Mathematics and a Master's in Psychology form Goethe-University Frankfurt.  
+I obtained my PhD titled "*Model Selection and Estimation of Statistical Power in Nonlinear Structural Equation Modeling*" in 2024 from Goethe-University Frankfurt – for which I received the prize for the best dissertation of the natural sciences.  
+
+My research centers on advancing statistical methodology across psychology, statistics, data science, psychometrics, and econometrics by developing, improving and testing statistical approaches. I specialize in simulation-based and machine learning approaches, non-parametric and complex data analysis, with applications to core scientific challenges such as power analysis and sample size planning, causal inference, longitudinal data modeling, and model evaluation. Ultimately, my goal is to provide researchers with tools that make their inferences more reliable and their designs more efficient.
+
+
+I have published in several methodological journals such as *Psychometrika* and *Behavior Research Methods*. I am currently a guest editor at *Behavior Research Methods* for the Special Issue [*Methodological Challenges of Complex Latent Mediator and Moderator Models*](https://link.springer.com/collections/facieeabfj). 
+
+I have authored and contributed to several `R` packages. Most prominently `powerNLSEM`, which automates simulation-based power analysis for nonlinear structural equation modeling (NLSEM) and was a core part of my dissertation project. Other `R` packages include `mvDFA` and `ezCutoffs`.  
+These tools are freely available underlining my commitment to open science and to providing the research community with sustainable software solutions.  
+
+I am committed to educating young researchers about the critical and responsible use of artificial intelligence.  
+I have taught more than 20 courses as lecturer and student assistant for psychologists, clinical psychologists, mathematicians, statisticians, biologists and environmental scientists, supervised over 8 Bachelor’s and Master’s theses, and conducted more than 50 statistical consultations for scientists from students to full professors as well as industry researchers.  
+Through this work I have gained substantial experience in curriculum design, academic mentoring, and interdisciplinary teaching.  
+
+I have authored more than 45 blog-type tutorials on conducting statistical analyses in `R` on [PandaR](https://pandar.netlify.app/authors/julien-p.-irmer/), making advanced methods accessible to a broad audience.  
+
+I am one of two young researcher representatives of the Methods and Evaluation Division (*Fachgruppe für Methoden und Evaluation*) of the Deutsche Gesellschaft für Psychologie (DGPS).  
+In this role, I help shape the methodological agenda of the discipline, represent early-career researchers at the national level, and lead initiatives such as conferences, workshops, and networking events that strengthen the visibility and collaboration of the next generation of scholars.
+
+Find out more about my publications, talks, workshops, software packages, and honorary work – check out my [CV](cv.qmd).

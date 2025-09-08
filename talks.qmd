@@ -1,0 +1,91 @@
+---
+title: "Talks"
+---
+
+
+::: {.callout-note}
+## 🎤 Invited Talks/Presentations
+:::
+
+- **Irmer, J. P.** (2025, June 25). From nonparametric model selection to model-implied simulation-based power estimation: A machine-learning-inspired, adaptive simulation framework for complex structural equation models and beyond [Invited talk]. Dynamic Modeling Lab Meeting, Utrecht University, Netherlands.  
+
+- **Irmer, J. P.** (2025, June 10). From model selection to a novel simulation-based power estimation method: Applications to nonlinear SEM [Invited talk]. Kolloquium Psychologische Methodenlehre, Philipps University Marburg, Germany.  
+
+- **Irmer, J. P.** (2025, May 14). Model selection and the estimation of statistical power in nonlinear structural equation modeling [Invited presentation]. Presentation before the committee of the *Preis der Vereinigung der Freunde und Förderer der Johann Wolfgang Goethe-Universität e.V.*, Frankfurt, Germany.  
+
+- **Irmer, J. P.** (2025, January). Overcoming the challenges of nonlinear SEM: A novel simulation-based power estimation method [Invited talk]. Department Colloquium, University of Kassel, Germany.  
+
+- **Irmer, J. P.**, & Grønneberg, S. (2023, September). Motivation and diagnostics for nonlinear structural equation models using non-parametric regression among factor scores [Invited talk]. Research Seminar in Data Science, Norwegian Business School, Oslo, Norway.  
+
+- **Irmer, J. P.** (2023, April). On problems and their solutions in nonlinear structural equation modeling [Invited talk]. Research Colloquium, Department of Psychological Methods, Philipps University Marburg, Germany.  
+
+- **Irmer, J. P.** (2022, October). PandaR as an example for open teaching practices [Invited talk]. ReproducibiliTea Frankfurt, Goethe-University Frankfurt, Germany. 🌐 [Slides/OSF](https://osf.io/g2tbw)  
+
+- **Irmer, J. P.** (2021, June). Nichtlineare Strukturgleichungsmodelle [Nonlinear structural equation modeling] [Invited talk]. Research Colloquium, Department of Psychological Methods, Humboldt-Universität zu Berlin, Germany.  
+
+::: {.callout-note}
+## 🗣️ Discussions & Organized Symposia
+:::
+
+- Gärtner, A., Badstuber, N., Schwake, M., Baierer, F., **Irmer, J. P.**, Henninger, M., Pfeuffer, C., & Ortner, T. (2024, September). Gibt es einen Nachwuchsmangel in der Psychologie? Eine kritische Analyse [Panel discussion]. *53rd Congress of the German Psychological Society (DGPS)*, Vienna, Austria.  
+
+- Brandt, H., Hecht, M., Sengewald, M., Frick, S., & **Irmer, J. P.** (2024, September). The use of machine learning for psychological research: What are its opportunities to answer substantive research questions? [Organized symposium]. *53rd Congress of the German Psychological Society (DGPS)*, Vienna, Austria.  
+
+::: {.callout-note}
+## 📊 Conference Presentations
+:::
+
+- **Irmer, J. P.** (2025, March). Model selection, diagnostics, and motivation for nonlinear structural equation models via non-parametric regression among factor scores [Conference presentation]. *DagStat 2025 – Joint Statistical Meeting of the DAGStat*, Berlin, Germany.  
+
+- **Irmer, J. P.** (2025, March). Power up your nonlinear SEM analysis: Model-implied simulation-based power estimation with powerNLSEM using asymptotic normality [Conference presentation]. *Meeting of the Working Group Structural Equation Modeling*, Chemnitz, Germany.  
+
+- **Irmer, J. P.** (2024, September). Estimating power in moderated mediation models: A model-implied simulation-based power estimation approach introducing the powerNLSEM R-package [Conference presentation]. *53rd Congress of the German Psychological Society (DGPS)*, Vienna, Austria.  
+
+- Hartig, J., Köhler, C., & **Irmer, J. P.** (2024, September). Sollte bei der Beurteilung des Itemfit anhand von Infit und Outfit auf die Verwendung pauschaler Cut-Off-Werte verzichtet werden? [Conference presentation]. *53rd Congress of the German Psychological Society (DGPS)*, Vienna, Austria.  
+
+- Schultze, M., **Irmer, J. P.**, & Nehler, K. J. (2023, September). pandaR [Conference presentation]. *CIHH23 Campus Innovation*, Hamburg, Germany.  
+
+- **Irmer, J. P.**, Klein, A. G., & Schermelleh-Engel, K. (2023, September). Simulation-based semi-parametric estimation of power in nonlinear SEM [Conference presentation]. *15th Meeting of the DGPS Methods & Evaluation Division (FGME)*, Konstanz, Germany.  
+
+- Grønneberg, S., & **Irmer, J. P.** (2023, September). Non-parametric regression among factor scores [Conference presentation]. *Conference for Frontier Research in Educational Measurement (FREMO)*, Oslo, Norway.  
+
+- Kern, M., **Irmer, J. P.**, Dormann, C., & Zapf, D. (2023, September). Analyse komplexer Längsschnittdaten mit zeitkontinuierlichen Strukturgleichungsmodellen am Beispiel von sozialen Stressoren und Gesundheit [Analysis of complex longitudinal data using CTSEM] [Conference presentation]. *13th Meeting of the DGPS Work, Organizational, and Business Psychology Division*, Kassel, Germany.  
+
+- **Irmer, J. P.**, Klein, A. G., & Schermelleh-Engel, K. (2023, March). Estimating power in moderated mediation models and endogenous moderation model: The powerNLSEM R-package [Conference presentation]. *Meeting of the Working Group Structural Equation Modeling 2023 (ATLAS Conference)*, Bielefeld, Germany.  
+
+- **Irmer, J. P.**, Klein, A. G., & Schermelleh-Engel, K. (2022, October). Challenges faced in simulation studies examining nonlinear SEM with distributional misspecification [Conference presentation]. *2nd Methods Retreat for Young Researchers*, Kassel, Germany.  
+
+- **Irmer, J. P.**, Klein, A. G., & Schermelleh-Engel, K. (2022, September). Treating ordered-categorical data as continuous in nonlinear SEM: The crucial role of the dependent variable’s distribution [Conference presentation]. *52nd Congress of the German Psychological Society (DGPS)*, Hildesheim, Germany.  
+
+- Klein, A. G., & **Irmer, J. P.** (2022, September). Causal interpretation of statistical models: Can scientific philosophers give directions for statistical modeling? [Conference presentation]. *52nd Congress of the German Psychological Society (DGPS)*, Hildesheim, Germany.  
+
+- **Irmer, J. P.**, Büchner, R. B., & Klein, A. G. (2021, March). A quasi-likelihood ratio test to evaluate heterogeneous growth [Conference presentation]. *1st Methods Retreat for Young Researchers*, Aachen (Online), Germany.  
+
+- **Irmer, J. P.**, Klein, A. G., Gäde, J. C., & Schermelleh-Engel, K. (2021, March). Robustness of LMS compared to regression methods when categorical data are treated as continuous [Conference presentation]. *Meeting of the Working Group Structural Equation Modeling 2021*, Vienna (Online), Austria.  
+
+- **Irmer, J. P.**, Büchner, R. B., Schneider, G., & Klein, A. G. (2019, September). A quasi-likelihood ratio test to evaluate nonlinear SEM using quasi maximum likelihood [Conference presentation]. *14th DGPS Methods & Evaluation Division Meeting*, Kiel, Germany.  
+
+- Holman, D., Escaffi-Schwarz, M., Vasquez, C. A., **Irmer, J. P.**, & Zapf, D. (2019, June). A meta-analytic test of the core mediational proposition of job crafting theory [Conference presentation]. *EAWOP Small Group Meeting “Antecedents of Work Design”*, Amsterdam, The Netherlands.  
+
+- **Irmer, J. P.**, Büchner, R. D., & Klein, A. G. (2019, February–March). Global model fit test for nonlinear SEM using quasi maximum likelihood [Conference presentation]. *Meeting of the Working Group Structural Equation Modeling 2019*, Tübingen, Germany.  
+
+- **Irmer, J. P.**, Büchner, R. D., & Klein, A. G. (2018, September). Zur Robustheit des Quasi-Likelihood-Quotienten-Tests für nichtlineare Strukturgleichungsmodelle [On the robustness of quasi-likelihood ratio tests for nonlinear SEM] [Conference presentation]. *51st DGPS Congress*, Frankfurt am Main, Germany.  
+
+- Büchner, R. D., Klein, A. G., & **Irmer, J. P.** (2018, September). Quasi-likelihood ratio test zur Beurteilung der Gesamtmodellgüte von nichtlinearen SEM [A quasi-likelihood ratio test for the evaluation of global model fit of nonlinear SEM] [Conference presentation]. *51st DGPS Congress*, Frankfurt am Main, Germany.  
+
+- **Irmer, J. P.**, Kern, M., Semmer, N. K., & Zapf, D. (2015, September). Meta-analytical results on the challenge-hindrance-stressor concept using ISTA [Conference presentation]. *9th DGPS Work, Organizational, and Business Psychology Meeting*, Mainz, Germany.  
+
+
+
+::: {.callout-note}
+## 🎓 Colloquium Presentations
+:::
+
+- **Irmer, J. P.** (2025, July 3). Beyond the prompt: Practical AI use in research and teaching [Colloquium presentation]. Department of Psychological Methods, Humboldt-Universität zu Berlin, Germany.  
+
+- **Irmer, J. P.** (2025, May 15). From simulation studies to simulation-based power analysis: Tools for modern psychological research [Colloquium presentation]. Department of Psychological Methods, Humboldt-Universität zu Berlin, Germany.  
+
+- **Irmer, J. P.** (2024, August 6). My dissertation and beyond [Colloquium presentation]. Department of Psychological Methods, Humboldt-Universität zu Berlin, Germany.  
+
+- **Irmer, J. P.** (2022, June 22). Challenges in simulation studies with nonlinear effects, distributional misspecifications, and ordered-categorical data [Colloquium presentation]. Department of Psychological Methods and Evaluation, Goethe-University Frankfurt, Germany.  
+
