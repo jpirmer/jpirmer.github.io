@@ -29,7 +29,19 @@ website:
       <span class="faux-block"><i class="fa-brands fa-creative-commons"></i> 2025 Julien P. Irmer, </span>
       <span class="faux-block">Built with <a href="https://quarto.org/">Quarto</a></span>
     center: |
-      <span class="faux-block"><a href="https://github.com/jpirmer/julien.irmer.github.io"><i class="fa-brands fa-github"></i> Source Code</a></span>
+      <span class="faux-block">
+        <a href="https://github.com/jpirmer/jpirmer.github.io">
+          <i class="fa-brands fa-github"></i> Source Code
+        </a>
+      </span><br>
+      <span class="last-updated">Last updated: <span id="last-upd"></span></span>
+      <script>
+        (function(){
+          var d = new Date(document.lastModified);
+          var opts = {year:'numeric', month:'long', day:'numeric'};
+          document.getElementById('last-upd').textContent = d.toLocaleDateString('en-US', opts);
+        })();
+      </script>
     right:
       - text: "Impressum"
         href: impressum/impressum.qmd
