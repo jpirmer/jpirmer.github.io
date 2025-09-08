@@ -96,6 +96,10 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Dr.&nbsp;Julien P. Irmer</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
@@ -674,7 +678,14 @@ ul.task-list li input[type="checkbox"] {
 <p><span class="faux-block"><i class="fa-brands fa-creative-commons"></i> 2025 Julien P. Irmer, </span> <span class="faux-block">Built with <a href="https://quarto.org/">Quarto</a></span></p>
 </div>   
     <div class="nav-footer-center">
-<p><span class="faux-block"><a href="https://github.com/jpirmer/julien.irmer.github.io"><i class="fa-brands fa-github"></i> Source Code</a></span></p>
+<span class="faux-block"> <a href="https://github.com/jpirmer/jpirmer.github.io"> <i class="fa-brands fa-github"></i> Source Code </a> </span><br> <span class="last-updated">Last updated: <span id="last-upd"></span></span>
+<script>
+  (function(){
+    var d = new Date(document.lastModified);
+    var opts = {year:'numeric', month:'long', day:'numeric'};
+    document.getElementById('last-upd').textContent = d.toLocaleDateString('en-US', opts);
+  })();
+</script>
 </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
