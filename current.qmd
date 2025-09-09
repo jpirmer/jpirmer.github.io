@@ -1,0 +1,62 @@
+---
+title: "Current Projects"
+---
+
+🚧 *This page is currently under construction. In the near future, I will share details about my research interests, ongoing projects, and how I approach research and teaching. For a small overview of ongoing projects see below.*
+
+***
+
+A large part of my research focuses on analyzing when and why certain modeling approaches succeed or fail, developing assumptions about performance, and testing whether the conditions under study provide the strongest possible insights.  
+
+My current projects span several areas:
+
+::: {.callout-note}
+## 🤖 Artificial Intelligence, Machine Learning, and Software Development
+- Adaptive algorithms and automatization using machine learning  
+- Nonlinear effects and machine learning for causal inference  
+- The use of AI in research and teaching  
+- `R`-package programming and open-source software development  
+:::
+
+::: {.callout-note}
+## 📊 Statistical and Computational Methods
+- (Nonlinear) Structural Equation Modeling (SEM)  
+- Discrete and Continuous Time Modeling (CTSEM, DSEM)  
+- Generalized Linear Mixed-Effects Models & Hierarchical Data Analysis  
+- Non-parametric estimation with and without measurement noise  
+- Multivariate modeling of long memory in time series  
+:::
+
+::: {.callout-note}
+## 🔍 Power Analysis and Model Evaluation
+- Simulation-based power analysis  
+- Model fit and model selection  
+- Model and distributional assumptions and the impact of misspecification  
+:::
+
+::: {.callout-note}
+## 🧩 Causality, Heterogeneity, and Psychometrics
+- Approaches to model causal effects in longitudinal data  
+- Approaches for modeling confounding  
+- Parameter heterogeneity (IPC regression, MNLFA)  
+- (Psychometric) network analysis  
+- Selection effects  
+- Approaches to meta-analysis (meta-SEM, heterogeneity in effect sizes)  
+:::
+
+::: {.callout-note}
+## 🌐 Applications and Broader Interests
+- Stress at work and emotional labor strategies (deep acting, surface acting) in the framework of job demands and resources  
+- Mental health and well-being  
+- Applications of statistical modeling and methods in:  
+  - Psychology  
+  - Medicine  
+  - Biology  
+  - Epidemiology  
+  - Econometrics  
+:::
+
+
+*✉️ If you are interested in collaborations or consultations, please [feel free to reach out](/impressum/impressum.qmd)!*  
+
+*** 

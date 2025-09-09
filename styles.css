@@ -52,3 +52,48 @@ img[alt=""] {
   margin-top: 0.5em; /* add a little spacing */
 }
 
+/* Center the Quarto title ("About Me") */
+.quarto-title-block { 
+  text-align: center; 
+  margin-bottom: 0.75rem;
+}
+
+/* Hero block: name, degrees, photo */
+.hero {
+  text-align: center;
+  margin: 1rem auto 2rem;
+}
+.hero .name {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0.1rem 0 0.25rem 0;
+}
+
+.hero .degrees {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.05rem;
+  color: #555;
+  margin: 0 0 1rem 0;
+}
+.profile-pic {
+  width: 200px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Readable, justified body text */
+.landing-text {
+  text-align: justify;
+  text-justify: inter-word;
+  max-width: 820px;          /* comfortable line length */
+  margin: 0 auto;            /* center the block */
+}
+
+/* Slightly larger name on wider screens */
+@media (min-width: 992px) {
+  .hero .name { font-size: 2.6rem; }
+}
+

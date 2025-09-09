@@ -12,6 +12,7 @@ website:
       - talks.qmd
       - workshops.qmd
       - cv.qmd
+      - current.qmd
     right:
       - href: https://www.linkedin.com/in/jpirmer
         text: <i class="fa-brands fa-linkedin"></i>
