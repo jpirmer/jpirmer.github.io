@@ -130,3 +130,31 @@ img[alt=""] {
 .navbar a > i.ai { 
   font-weight: 400;
 }
+
+
+/* Responsive PDF viewer box */
+.pdf-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 900px;          /* keep it readable */
+  margin: 1rem auto 2rem;
+  aspect-ratio: 0.707;       /* A4 ratio = 210/297 ≈ 0.707 */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #f8f9fa;
+}
+
+.pdf-wrap iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.pdf-fallback {
+  text-align: center;
+  color: #666;
+  font-size: 0.95rem;
+}

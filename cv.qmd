@@ -2,6 +2,18 @@
 title: "CV"
 ---
 
-🚧 *This page is currently under construction. Shortly you will find my full CV here.*
+Last Updated: September 9, 2025.
 
-***
+[⬇️ Download the full CV (PDF)](/assets/CV_Irmer.pdf){.btn .btn-primary target="_blank" rel="noopener"}
+
+<div class="pdf-wrap">
+  <iframe
+    src="/assets/CV_Irmer.pdf#toolbar=1&navpanes=0&scrollbar=1"
+    title="CV – Julien P. Irmer"
+  ></iframe>
+</div>
+
+<!-- Fallback link for browsers that block inline PDFs -->
+<p class="pdf-fallback">
+  If the PDF does not display, please use the download link above.
+</p>
