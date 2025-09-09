@@ -14,16 +14,22 @@ website:
       - cv.qmd
       - current.qmd
     right:
-      - href: https://www.linkedin.com/in/jpirmer
-        text: <i class="fa-brands fa-linkedin"></i>
-      - href: https://www.researchgate.net/profile/Julien-P-Irmer
-        text: <i class="fa-solid fa-flask"></i>
-      - href: https://orcid.org/0000-0002-7544-6483
-        text: "<img src='/assets/orcid.webp' alt='ORCID' style='height:1.2em;'>"      
-      - href: https://pandar.netlify.app/authors/julien-p.-irmer/
-        text: <i class="fa-solid fa-code"></i>
-      - href: https://www.psychology.hu-berlin.de/de/mitarbeiter/1696000
-        text: <i class="fa-solid fa-graduation-cap"></i>
+      - href: "https://scholar.google.com/citations?user=s7I2mOAAAAAJ&hl=en&oi=sra"
+        text: "<i class='ai ai-google-scholar' aria-label='Google Scholar' title='Google Scholar'></i>"
+      - href: "https://www.researchgate.net/profile/Julien-P-Irmer"
+        text: "<i class='ai ai-researchgate' aria-label='ResearchGate' title='ResearchGate'></i>"
+      - href: "https://orcid.org/0000-0002-7544-6483"
+        text: "<i class='ai ai-orcid' aria-label='ORCID' title='ORCID'></i>"
+      - href: "https://osf.io/9hnkp/"
+        text: "<i class='ai ai-osf' aria-label='OSF' title='OSF'></i>"
+      - href: "https://github.com/jpirmer"
+        text: "<i class='fa-brands fa-github' aria-label='GitHub' title='GitHub'></i>"
+      - href: "https://www.linkedin.com/in/jpirmer"
+        text: "<i class='fa-brands fa-linkedin' aria-label='LinkedIn' title='LinkedIn'></i>"
+      - href: "https://pandar.netlify.app/authors/julien-p.-irmer/"
+        text: "<i class='fa-solid fa-code' aria-label='PandaR' title='PandaR'></i>"
+      - href: "https://www.psychology.hu-berlin.de/de/mitarbeiter/1696000"
+        text: "<i class='fa-solid fa-graduation-cap' aria-label='HU Berlin' title='HU Berlin'></i>"
 
   page-footer:
     left: |

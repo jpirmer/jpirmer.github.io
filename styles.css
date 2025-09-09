@@ -1,64 +1,38 @@
-/* css styles */
+/* ================================
+   Allgemeine Layout- und Textregeln
+   ================================ */
+
+/* Zentrierte Content-Box, begrenzt auf angenehme Zeilenlänge */
 .centered-content {
   margin-left: auto;
   margin-right: auto;
-  max-width: 700px; /* oder 60ch für ca. 60 Zeichen Breite */
+  max-width: 700px; /* alternativ: 60ch für ca. 60 Zeichen Breite */
 }
 
-/* centering and block-text */
+/* Standard-Text als Blocksatz */
 body {
   text-align: justify;
-  text-justify: inter-word; /* makes justification cleaner */
+  text-justify: inter-word; /* sorgt für sauberen Blocksatz */
 }
 
-/* Center the title block */
+/* ================================
+   Titelblock & Profilbild
+   ================================ */
+
+/* Zentriert Titelblock (Seitenüberschrift) */
 .quarto-title-block {
   text-align: center;
+  margin-bottom: 0.75rem;
 }
 
-/* Center the profile image below title */
+/* Profilbild zentriert unter dem Titel */
 .quarto-title-block img,
 img[alt=""] {
   display: block;
   margin: 0 auto;
 }
 
-/* footer */
-.quarto-page-footer { font-size: 0.5em; color: lightgrey; }
-.quarto-page-footer .faux-block { margin: 0 0.5rem; display: inline-block; }
-
-/* navigation bar icons */
-.navbar .fa-brands,
-.navbar .fa-solid {
-  font-size: 1.2em;   /* Größe */
-  margin-left: 0.5rem;
-  color: #444;        /* Farbe */
-}
-.navbar a:hover .fa-brands,
-.navbar a:hover .fa-solid {
-  color: #0a66c2;     /* LinkedIn-Blau beim Hover */
-}
-
-/* highlighting in publications */
-.callout-note ul li { margin-bottom: .6rem; }
-.callout-note a { text-decoration: none; }
-
-/* Size for footnotes */
-
-.footnote-small {
-  font-size: 70%;    /* shrink text */
-  color: #555;       /* optional: softer gray */
-  display: block;    /* ensures it sits on its own line */
-  margin-top: 0.5em; /* add a little spacing */
-}
-
-/* Center the Quarto title ("About Me") */
-.quarto-title-block { 
-  text-align: center; 
-  margin-bottom: 0.75rem;
-}
-
-/* Hero block: name, degrees, photo */
+/* "Hero"-Block: Name, Titel, Foto */
 .hero {
   text-align: center;
   margin: 1rem auto 2rem;
@@ -70,7 +44,6 @@ img[alt=""] {
   line-height: 1.2;
   margin: 0.1rem 0 0.25rem 0;
 }
-
 .hero .degrees {
   font-family: "Courier New", Courier, monospace;
   font-size: 1.05rem;
@@ -84,16 +57,76 @@ img[alt=""] {
   margin: 0 auto;
 }
 
-/* Readable, justified body text */
-.landing-text {
-  text-align: justify;
-  text-justify: inter-word;
-  max-width: 820px;          /* comfortable line length */
-  margin: 0 auto;            /* center the block */
-}
-
-/* Slightly larger name on wider screens */
+/* Name auf größeren Bildschirmen noch etwas größer */
 @media (min-width: 992px) {
   .hero .name { font-size: 2.6rem; }
 }
 
+/* ================================
+   Haupttext / Landing-Page
+   ================================ */
+
+/* Lesbarer Textblock mit Blocksatz und Begrenzung */
+.landing-text {
+  text-align: justify;
+  text-justify: inter-word;
+  max-width: 820px;  /* angenehme Zeilenlänge */
+  margin: 0 auto;    /* zentriert den Block */
+}
+
+/* ================================
+   Footer
+   ================================ */
+
+.quarto-page-footer { 
+  font-size: 0.5em; 
+  color: lightgrey; 
+}
+.quarto-page-footer .faux-block { 
+  margin: 0 0.5rem; 
+  display: inline-block; 
+}
+
+/* ================================
+   Publikationen & Fußnoten
+   ================================ */
+
+/* Abstand zwischen Listenelementen in Callout-Boxen */
+.callout-note ul li { margin-bottom: .6rem; }
+
+/* Links in Callouts ohne Unterstreichung */
+.callout-note a { text-decoration: none; }
+
+/* Kleine Fußnoten */
+.footnote-small {
+  font-size: 70%;    
+  color: #555;       
+  display: block;    
+  margin-top: 0.5em; 
+}
+
+/* ================================
+   Navbar-Icons (Academicons + Font Awesome)
+   ================================ */
+
+/* Basisstil: sorgt für gleiche Größe, Ausrichtung und Farbe */
+.navbar a > i {
+  font-size: 1.25rem;        /* einheitliche optische Größe */
+  line-height: 1;            /* verhindert ungleichmäßige Höhe */
+  display: inline-block;     /* stabilisiert die Baseline */
+  vertical-align: -1px;      /* Feinkorrektur, ggf. -1px oder 0 testen */
+  margin-left: 0.6rem;       /* Abstand zwischen Icons */
+  color: #ffffff;            /* alle Icons standardmäßig weiß */
+  transition: color 0.15s ease-in-out, transform 0.15s ease-in-out;
+}
+
+/* Hover-Effekt: leichte Animation + Farbwechsel */
+.navbar a:hover > i {
+  color: #006400;            /* HU-Grün beim Hover */
+  transform: translateY(-1px);
+}
+
+/* Harmonisierung: Academicons sind leicht „dicker“ als FA */
+.navbar a > i.ai { 
+  font-weight: 400;
+}
