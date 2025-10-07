@@ -10,8 +10,8 @@ title: "About Me"
 
 <div class="landing-text">
 
-I am Post-Doc Albert Ludwig University of Freiburg with a Master's in Mathematics and a Master's in Psychology from Goethe-University Frankfurt.  
-I obtained my PhD titled "*Model Selection and Estimation of Statistical Power in Nonlinear Structural Equation Modeling*" in 2024 from Goethe-University Frankfurt – for which I received the award for the best dissertation of the natural sciences in 2025 from Goethe University and the Gustav A.-Lienert Award of the Mehtods and Evaluation Devision of the DGPs for 2023-2025.  
+I am a Postdoctoral Researcher at Albert Ludwig University of Freiburg, holding a Master’s degree in Mathematics and a Master’s degree in Psychology from Goethe University Frankfurt.
+In 2024, I obtained my PhD from Goethe University Frankfurt with the dissertation *"Model Selection and Estimation of Statistical Power in Nonlinear Structural Equation Modeling."* For this work, I received the **Best Dissertation Award of the Natural Sciences** (2025) from *Goethe University* as well as the **Gustav A. Lienert Award** of the *Methods and Evaluation Division of the German Psychological Society (DGPs)* for 2023–2025.
 
 My research centers on advancing statistical methodology across psychology, statistics, data science, psychometrics, and econometrics by developing, improving and testing statistical approaches. I specialize in simulation-based and machine learning approaches, non-parametric and complex data analysis, with applications to core scientific challenges such as power analysis and sample size planning, causal inference, longitudinal data modeling, and model evaluation. Ultimately, my goal is to provide researchers with tools that make their inferences more reliable and their designs more efficient.
 
