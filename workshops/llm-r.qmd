@@ -1,0 +1,60 @@
+---
+title: "Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R erleichtern"
+subtitle: "A little AI never hurts? – How LLMs can facilitate programming in R"
+author: "Dr. Julien P. Irmer, M.Sc. Math., M.Sc. Psych."
+---
+
+::: {.callout-note}
+## 🤖 Workshop Materials
+Materials for the LLM & R workshop series [in German].
+:::
+
+## GRADE, Goethe-University Frankfurt — May 2026
+
+*Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R für typische Fragestellungen der Bildungswissenschaften erleichtern*
+
+**Date:** Tuesday, May 5, 2026, 9:00–17:30 &nbsp;|&nbsp; **Audience:** PhD & Post-Docs &nbsp;|&nbsp; **Format:** One-Day Workshop
+
+**Slides**
+
+- [<i class="fa-solid fa-file-pdf"></i> Part 1](../assets/_workshops/LLMandR/Irmer_AI_and_R_Grade_2026_Part_1.pdf){.btn .btn-outline-primary .btn-sm}
+- [<i class="fa-solid fa-file-pdf"></i> Part 2](../assets/_workshops/LLMandR/Irmer_AI_and_R_Grade_2026_Part_2.pdf){.btn .btn-outline-primary .btn-sm}
+
+**Scripts & Exercises**
+
+- [<i class="fa-solid fa-code"></i> Hypothesen](../assets/_workshops/LLMandR/Hypothesen.html){.btn .btn-outline-secondary .btn-sm}
+- [<i class="fa-solid fa-code"></i> Prompt Engineering – Aufgabe](../assets/_workshops/LLMandR/prompt_engineering_aufgabe.html){.btn .btn-outline-secondary .btn-sm}
+- [<i class="fa-solid fa-code"></i> PACO SIM – Daten einlesen](../assets/_workshops/LLMandR/paco_sim_daten_einlesen.html){.btn .btn-outline-secondary .btn-sm}
+- [<i class="fa-solid fa-code"></i> H1 ANOVA (Base R)](../assets/_workshops/LLMandR/H1_ANOVA_BaseR.html){.btn .btn-outline-secondary .btn-sm}
+- [<i class="fa-solid fa-code"></i> PACO SIM Codebook](../assets/_workshops/LLMandR/PACO_SIM_Codebook.html){.btn .btn-outline-secondary .btn-sm}
+- [<i class="fa-solid fa-code"></i> Part 2 – Quarto Beispiel](../assets/_workshops/LLMandR/Part2_Quarto%20Beispiel.html){.btn .btn-outline-secondary .btn-sm}
+- [<i class="fa-solid fa-table"></i> paco_sim_workshop.csv](../assets/_workshops/LLMandR/paco_sim_workshop.csv){.btn .btn-outline-secondary .btn-sm}
+- [<i class="fa-solid fa-file-code"></i> Part 2 – Quarto Beispiel (.qmd)](../assets/_workshops/LLMandR/Part2_Quarto%20Beispiel.qmd){.btn .btn-outline-secondary .btn-sm}
+
+<details>
+<summary><i class="fa-solid fa-lightbulb"></i> &nbsp; Solutions & hints <span style="font-size:0.85em; color:gray;">(open if you get stuck)</span></summary>
+
+<br>
+
+<!-- - [<i class="fa-solid fa-code"></i> Lsg. (Lösung)](../assets/_workshops/LLMandR/Lsg.html){.btn .btn-outline-success .btn-sm}  -->
+- [<i class="fa-solid fa-code"></i> Hypothesen mit Tipps](../assets/_workshops/LLMandR/Hypothesen_mit_Tipps.html){.btn .btn-outline-success .btn-sm}
+
+</details>
+
+---
+
+## FDZ Frühjahrsakademie / Spring Academy, Humboldt-Universität zu Berlin — March 2026
+
+*Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R erleichtern*
+
+**Dates:** Part 1: Wednesday, March 11, 2026, 14:00–18:00 &nbsp;|&nbsp; Part 2: Thursday, March 12, 2026, 14:00–18:00  
+**Audience:** PhD & Post-Docs &nbsp;|&nbsp; **Format:** Two-Half-Day Workshop
+
+::: {style="font-size:0.9em; color:gray;"}
+*This is an earlier version of the workshop. An updated and extended version was taught at GRADE (above).*
+:::
+
+**Slides**
+
+- [<i class="fa-solid fa-file-pdf"></i> Part 1](../assets/_workshops/LLMandR/Irmer_AI_and_R_IQB_2026_Part_1.pdf){.btn .btn-outline-primary .btn-sm}
+- [<i class="fa-solid fa-file-pdf"></i> Part 2](../assets/_workshops/LLMandR/Irmer_AI_and_R_IQB_2026_Part_2.pdf){.btn .btn-outline-primary .btn-sm}

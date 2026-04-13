@@ -6,7 +6,12 @@ title: "Workshops"
 ## 🛠️ Workshops
 :::
 
-- **Irmer, J. P.**, & Frick, S. (2025, September). *Mathematische Grundlagen von statistischen Tests und Schätzern für Psycholog:innen* [Mathematical foundations of statistical tests and estimators for psychologists]. Full-day workshop at FGME 2025, Germany, Level: PhD.  
+- **Irmer, J. P.** (2026, May). *Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R für typische Fragestellungen der Bildungswissenschaften erleichtern* [A little AI never hurt? – How LLMs facilitate R programming for typical questions in educational sciences]. One-Day Workshop for GRADE, Goethe-University Frankfurt, Level: PhD & Post-Doc. &nbsp; [<i class="fa-solid fa-box-open"></i> Materials](workshops/llm-r.qmd){.btn .btn-outline-secondary .btn-sm}
+
+- **Irmer, J. P.** (2026, March). *Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R erleichtern* [A little AI never hurt? – How LLMs facilitate R programming]. Two-Half-Day Workshop for FDZ Frühjahrsakademie / Spring Academy 2026, Humboldt-Universität zu Berlin, Level: PhD & Post-Doc. &nbsp; [<i class="fa-solid fa-box-open"></i> Materials](workshops/llm-r.qmd){.btn .btn-outline-secondary .btn-sm}
+
+- **Irmer, J. P.**, & Frick, S. (2025, September). *Mathematische Grundlagen von statistischen Tests und Schätzern für Psycholog:innen* [Mathematical foundations of statistical tests and estimators for psychologists]. Full-day workshop at FGME 2025, Germany, Level: PhD. &nbsp; [<i class="fa-solid fa-file-pdf"></i> Slides](assets/_workshops/MathematicalFoundation/JuMi_Workshop_FGME2025.pdf){.btn .btn-outline-secondary .btn-sm}
+
 
 - Frick, S., Siepe, B., & **Irmer, J. P.** (2025, May). *Wie erforscht man Forschungsmethoden?* [How do we study research methods?]. Online workshop conducted for the Methods and Evaluation Division of the DGPS, Berlin, Germany, Level: M.Sc.
 

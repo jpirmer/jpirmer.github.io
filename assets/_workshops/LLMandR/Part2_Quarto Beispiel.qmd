@@ -1,0 +1,68 @@
+---
+title: "Quarto Beispiel"
+author: "Julien P. Irmer"
+format: 
+  html:
+      embed-resources: true
+editor: source
+---
+
+# Größte Überschrift
+
+## Zweitgrößte Überschrift
+
+### Drittgrößte Überschrift
+
+**Fetter Text**
+
+*Kursiv geschriebener Text*
+
+- Aufzählungspunkt 1
+- Aufzählungspunkt 2
+
+1. Nummerierte Liste 1
+2. Nummerierte Liste 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+# R-Code-Block
+x <- 1:10
+y <- x^2
+plot(x, y, type = "b", col = "blue", 
+main = "Quadratische Funktion", xlab = "x", ylab = "y")
+```
+Inline R-command: Summe von x = `r sum(x)`.
+
+LaTeX Formel: $Y_i = \beta_0 + \beta_1 X_i + \varepsilon_i$.
+
+[Link zu RStudio](https://www.rstudio.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

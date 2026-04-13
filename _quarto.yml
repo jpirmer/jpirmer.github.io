@@ -1,6 +1,10 @@
 project:
   type: website
-  output-dir: docs  
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "workshops/*.qmd"
+    - "impressum/*.qmd"
 
 website:
   title: "Dr. Julien P. Irmer"
