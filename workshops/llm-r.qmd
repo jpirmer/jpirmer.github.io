@@ -17,27 +17,27 @@ Materials for the LLM & R workshop series [in German].
 
 **Slides**
 
-- [<i class="fa-solid fa-file-pdf"></i> Part 1](../assets/_workshops/LLMandR/Irmer_AI_and_R_Grade_2026_Part_1.pdf){.btn .btn-outline-primary .btn-sm}
-- [<i class="fa-solid fa-file-pdf"></i> Part 2](../assets/_workshops/LLMandR/Irmer_AI_and_R_Grade_2026_Part_2.pdf){.btn .btn-outline-primary .btn-sm}
+- [<i class="fa-solid fa-file-pdf"></i> Part 1](../assets/workshops/LLMandR/Irmer_AI_and_R_Grade_2026_Part_1.pdf){.btn .btn-outline-primary .btn-sm}
+- [<i class="fa-solid fa-file-pdf"></i> Part 2](../assets/workshops/LLMandR/Irmer_AI_and_R_Grade_2026_Part_2.pdf){.btn .btn-outline-primary .btn-sm}
 
 **Scripts & Exercises**
 
-- [<i class="fa-solid fa-code"></i> Hypothesen](../assets/_workshops/LLMandR/Hypothesen.html){.btn .btn-outline-secondary .btn-sm}
-- [<i class="fa-solid fa-code"></i> Prompt Engineering – Aufgabe](../assets/_workshops/LLMandR/prompt_engineering_aufgabe.html){.btn .btn-outline-secondary .btn-sm}
-- [<i class="fa-solid fa-code"></i> PACO SIM – Daten einlesen](../assets/_workshops/LLMandR/paco_sim_daten_einlesen.html){.btn .btn-outline-secondary .btn-sm}
-- [<i class="fa-solid fa-code"></i> H1 ANOVA (Base R)](../assets/_workshops/LLMandR/H1_ANOVA_BaseR.html){.btn .btn-outline-secondary .btn-sm}
-- [<i class="fa-solid fa-code"></i> PACO SIM Codebook](../assets/_workshops/LLMandR/PACO_SIM_Codebook.html){.btn .btn-outline-secondary .btn-sm}
-- [<i class="fa-solid fa-code"></i> Part 2 – Quarto Beispiel](../assets/_workshops/LLMandR/Part2_Quarto%20Beispiel.html){.btn .btn-outline-secondary .btn-sm}
-- [<i class="fa-solid fa-table"></i> paco_sim_workshop.csv](../assets/_workshops/LLMandR/paco_sim_workshop.csv){.btn .btn-outline-secondary .btn-sm}
-- [<i class="fa-solid fa-file-code"></i> Part 2 – Quarto Beispiel (.qmd)](../assets/_workshops/LLMandR/Part2_Quarto%20Beispiel.qmd){.btn .btn-outline-secondary .btn-sm}
+- [<i class="fa-solid fa-code"></i> Hypothesen](../assets/workshops/LLMandR/Hypothesen.html){.btn .btn-outline-secondary .btn-sm}
+- [<i class="fa-solid fa-code"></i> Prompt Engineering – Aufgabe](../assets/workshops/LLMandR/prompt_engineering_aufgabe.html){.btn .btn-outline-secondary .btn-sm}
+- [<i class="fa-solid fa-code"></i> PACO SIM – Daten einlesen](../assets/workshops/LLMandR/paco_sim_daten_einlesen.html){.btn .btn-outline-secondary .btn-sm}
+- [<i class="fa-solid fa-code"></i> H1 ANOVA (Base R)](../assets/workshops/LLMandR/H1_ANOVA_BaseR.html){.btn .btn-outline-secondary .btn-sm}
+- [<i class="fa-solid fa-code"></i> PACO SIM Codebook](../assets/workshops/LLMandR/PACO_SIM_Codebook.html){.btn .btn-outline-secondary .btn-sm}
+- [<i class="fa-solid fa-code"></i> Part 2 – Quarto Beispiel](../assets/workshops/LLMandR/Part2_Quarto%20Beispiel.html){.btn .btn-outline-secondary .btn-sm}
+- [<i class="fa-solid fa-table"></i> paco_sim_workshop.csv](../assets/workshops/LLMandR/paco_sim_workshop.csv){.btn .btn-outline-secondary .btn-sm}
+- [<i class="fa-solid fa-file-code"></i> Part 2 – Quarto Beispiel (.qmd)](../assets/workshops/LLMandR/Part2_Quarto%20Beispiel.qmd){.btn .btn-outline-secondary .btn-sm}
 
 <details>
 <summary><i class="fa-solid fa-lightbulb"></i> &nbsp; Solutions & hints <span style="font-size:0.85em; color:gray;">(open if you get stuck)</span></summary>
 
 <br>
 
-<!-- - [<i class="fa-solid fa-code"></i> Lsg. (Lösung)](../assets/_workshops/LLMandR/Lsg.html){.btn .btn-outline-success .btn-sm}  -->
-- [<i class="fa-solid fa-code"></i> Hypothesen mit Tipps](../assets/_workshops/LLMandR/Hypothesen_mit_Tipps.html){.btn .btn-outline-success .btn-sm}
+<!-- - [<i class="fa-solid fa-code"></i> Lsg. (Lösung)](../assets/workshops/LLMandR/Lsg.html){.btn .btn-outline-success .btn-sm} -->
+- [<i class="fa-solid fa-code"></i> Hypothesen mit Tipps](../assets/workshops/LLMandR/Hypothesen_mit_Tipps.html){.btn .btn-outline-success .btn-sm}
 
 </details>
 
@@ -56,5 +56,5 @@ Materials for the LLM & R workshop series [in German].
 
 **Slides**
 
-- [<i class="fa-solid fa-file-pdf"></i> Part 1](../assets/_workshops/LLMandR/Irmer_AI_and_R_IQB_2026_Part_1.pdf){.btn .btn-outline-primary .btn-sm}
-- [<i class="fa-solid fa-file-pdf"></i> Part 2](../assets/_workshops/LLMandR/Irmer_AI_and_R_IQB_2026_Part_2.pdf){.btn .btn-outline-primary .btn-sm}
+- [<i class="fa-solid fa-file-pdf"></i> Part 1](../assets/workshops/LLMandR/Irmer_AI_and_R_IQB_2026_Part_1.pdf){.btn .btn-outline-primary .btn-sm}
+- [<i class="fa-solid fa-file-pdf"></i> Part 2](../assets/workshops/LLMandR/Irmer_AI_and_R_IQB_2026_Part_2.pdf){.btn .btn-outline-primary .btn-sm}

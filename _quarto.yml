@@ -5,6 +5,9 @@ project:
     - "*.qmd"
     - "workshops/*.qmd"
     - "impressum/*.qmd"
+    - "!assets/**"
+  resources:
+    - "assets/_workshops/**"
 
 website:
   title: "Dr. Julien P. Irmer"
