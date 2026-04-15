@@ -7,11 +7,11 @@
     "text": "Note🤖 Workshop Materials\n\n\n\nMaterials for the LLM & R workshop series [in German]."
   },
   {
-    "objectID": "workshops/llm-r.html#grade-goethe-university-frankfurt-may-2026",
-    "href": "workshops/llm-r.html#grade-goethe-university-frankfurt-may-2026",
+    "objectID": "workshops/llm-r.html#grade-goethe-university-frankfurt-april-2026",
+    "href": "workshops/llm-r.html#grade-goethe-university-frankfurt-april-2026",
     "title": "Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R erleichtern",
-    "section": "GRADE, Goethe-University Frankfurt — May 2026",
-    "text": "GRADE, Goethe-University Frankfurt — May 2026\nEin bisschen KI schadet nie? – Wie LLMs das Programmieren in R für typische Fragestellungen der Bildungswissenschaften erleichtern\nDate: Tuesday, May 5, 2026, 9:00–17:30  |  Audience: PhD & Post-Docs  |  Format: One-Day Workshop\nSlides\n\n Part 1\n Part 2\n\nScripts & Exercises\n\n Hypothesen\n Prompt Engineering – Aufgabe\n PACO SIM – Daten einlesen\n H1 ANOVA (Base R)\n PACO SIM Codebook\n Part 2 – Quarto Beispiel\n paco_sim_workshop.csv\n Part 2 – Quarto Beispiel (.qmd)\n\n\n\n   Solutions & hints (open if you get stuck)\n\n\n\n\n Hypothesen mit Tipps"
+    "section": "GRADE, Goethe-University Frankfurt — April 2026",
+    "text": "GRADE, Goethe-University Frankfurt — April 2026\nEin bisschen KI schadet nie? – Wie LLMs das Programmieren in R für typische Fragestellungen der Bildungswissenschaften erleichtern\nDate: Tuesday, April 14, 2026, 9:00–17:00  |  Audience: PhD & Post-Docs  |  Format: One-Day Workshop\nSlides\n\n Part 1\n Part 2\n\nScripts & Exercises\n\n Hypothesen\n Prompt Engineering – Aufgabe\n PACO SIM – Daten einlesen\n H1 ANOVA (Base R)\n PACO SIM Codebook\n Part 2 – Quarto Beispiel\n paco_sim_workshop.csv\n Part 2 – Quarto Beispiel (.qmd)\n\n\n\n   Solutions & hints (open if you get stuck)\n\n\n\n\n Hypothesen mit Tipps"
   },
   {
     "objectID": "workshops/llm-r.html#fdz-frühjahrsakademie-spring-academy-humboldt-universität-zu-berlin-march-2026",

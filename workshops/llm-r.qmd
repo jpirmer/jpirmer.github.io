@@ -9,11 +9,11 @@ author: "Dr. Julien P. Irmer, M.Sc. Math., M.Sc. Psych."
 Materials for the LLM & R workshop series [in German].
 :::
 
-## GRADE, Goethe-University Frankfurt — May 2026
+## GRADE, Goethe-University Frankfurt — April 2026
 
 *Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R für typische Fragestellungen der Bildungswissenschaften erleichtern*
 
-**Date:** Tuesday, May 5, 2026, 9:00–17:30 &nbsp;|&nbsp; **Audience:** PhD & Post-Docs &nbsp;|&nbsp; **Format:** One-Day Workshop
+**Date:** Tuesday, April 14, 2026, 9:00–17:00 &nbsp;|&nbsp; **Audience:** PhD & Post-Docs &nbsp;|&nbsp; **Format:** One-Day Workshop
 
 **Slides**
 
