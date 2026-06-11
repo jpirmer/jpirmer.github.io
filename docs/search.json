@@ -7,18 +7,25 @@
     "text": "Note🤖 Workshop Materials\n\n\n\nMaterials for the LLM & R workshop series [in German]."
   },
   {
+    "objectID": "workshops/llm-r.html#colloquium-of-the-department-of-evaluation-of-the-institute-of-psychology-university-of-freiburg---june-2026",
+    "href": "workshops/llm-r.html#colloquium-of-the-department-of-evaluation-of-the-institute-of-psychology-university-of-freiburg---june-2026",
+    "title": "Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R erleichtern",
+    "section": "Colloquium of the Department of Evaluation of the Institute of Psychology, University of Freiburg - June 2026",
+    "text": "Colloquium of the Department of Evaluation of the Institute of Psychology, University of Freiburg - June 2026\nEin bisschen KI schadet nie? LLMs, Prompt Engineering und R-Workflows\nDate: Thursday, June 11, 2026, 10:15–12:00, Audience: Master-students, PhD-students, Post-Docs & Professors  |  Format: Presentation\n\n Slides of Presentation"
+  },
+  {
     "objectID": "workshops/llm-r.html#grade-goethe-university-frankfurt-april-2026",
     "href": "workshops/llm-r.html#grade-goethe-university-frankfurt-april-2026",
     "title": "Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R erleichtern",
     "section": "GRADE, Goethe-University Frankfurt — April 2026",
-    "text": "GRADE, Goethe-University Frankfurt — April 2026\nEin bisschen KI schadet nie? – Wie LLMs das Programmieren in R für typische Fragestellungen der Bildungswissenschaften erleichtern\nDate: Tuesday, April 14, 2026, 9:00–17:00  |  Audience: PhD & Post-Docs  |  Format: One-Day Workshop\nSlides\n\n Part 1\n Part 2\n\nScripts & Exercises\n\n Hypothesen\n Prompt Engineering – Aufgabe\n PACO SIM – Daten einlesen\n H1 ANOVA (Base R)\n PACO SIM Codebook\n Part 2 – Quarto Beispiel\n paco_sim_workshop.csv\n Part 2 – Quarto Beispiel (.qmd)\n\n\n\n   Solutions & hints (open if you get stuck)\n\n\n\n\n Hypothesen mit Tipps"
+    "text": "GRADE, Goethe-University Frankfurt — April 2026\nEin bisschen KI schadet nie? – Wie LLMs das Programmieren in R für typische Fragestellungen der Bildungswissenschaften erleichtern\nDate: Tuesday, April 14, 2026, 9:00–17:00  |  Audience: PhD-students, Post-Docs & Professors  |  Format: One-Day Workshop\nSlides\n\n Part 1\n Part 2\n\nScripts & Exercises\n\n Hypothesen\n Prompt Engineering – Aufgabe\n PACO SIM – Daten einlesen\n H1 ANOVA (Base R)\n PACO SIM Codebook\n Part 2 – Quarto Beispiel\n paco_sim_workshop.csv\n Part 2 – Quarto Beispiel (.qmd)\n\n\n\n   Solutions & hints (open if you get stuck)\n\n\n\n\n Hypothesen mit Tipps"
   },
   {
     "objectID": "workshops/llm-r.html#fdz-frühjahrsakademie-spring-academy-humboldt-universität-zu-berlin-march-2026",
     "href": "workshops/llm-r.html#fdz-frühjahrsakademie-spring-academy-humboldt-universität-zu-berlin-march-2026",
     "title": "Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R erleichtern",
     "section": "FDZ Frühjahrsakademie / Spring Academy, Humboldt-Universität zu Berlin — March 2026",
-    "text": "FDZ Frühjahrsakademie / Spring Academy, Humboldt-Universität zu Berlin — March 2026\nEin bisschen KI schadet nie? – Wie LLMs das Programmieren in R erleichtern\nDates: Part 1: Wednesday, March 11, 2026, 14:00–18:00  |  Part 2: Thursday, March 12, 2026, 14:00–18:00\nAudience: PhD & Post-Docs  |  Format: Two-Half-Day Workshop\n\nThis is an earlier version of the workshop. An updated and extended version was taught at GRADE (above).\n\nSlides\n\n Part 1\n Part 2"
+    "text": "FDZ Frühjahrsakademie / Spring Academy, Humboldt-Universität zu Berlin — March 2026\nEin bisschen KI schadet nie? – Wie LLMs das Programmieren in R erleichtern\nDates: Part 1: Wednesday, March 11, 2026, 14:00–18:00  |  Part 2: Thursday, March 12, 2026, 14:00–18:00\nAudience: PhD-students, Post-Docs, & Professors  |  Format: Two-Half-Day Workshop\n\nThis is an earlier version of the workshop. An updated and extended version was taught at GRADE (above).\n\nSlides\n\n Part 1\n Part 2"
   },
   {
     "objectID": "talks.html",
@@ -68,19 +75,5 @@
     "title": "Workshops",
     "section": "",
     "text": "Note🛠️ Workshops\n\n\n\n\n\n\n\nIrmer, J. P. (2026, May). Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R für typische Fragestellungen der Bildungswissenschaften erleichtern [A little AI never hurt? – How LLMs facilitate R programming for typical questions in educational sciences]. One-Day Workshop for GRADE, Goethe-University Frankfurt, Level: PhD & Post-Doc.    Materials\nIrmer, J. P. (2026, March). Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R erleichtern [A little AI never hurt? – How LLMs facilitate R programming]. Two-Half-Day Workshop for FDZ Frühjahrsakademie / Spring Academy 2026, Humboldt-Universität zu Berlin, Level: PhD & Post-Doc.    Materials\nIrmer, J. P., & Frick, S. (2025, September). Mathematische Grundlagen von statistischen Tests und Schätzern für Psycholog:innen [Mathematical foundations of statistical tests and estimators for psychologists]. Full-day workshop at FGME 2025, Germany, Level: PhD.    Slides\nFrick, S., Siepe, B., & Irmer, J. P. (2025, May). Wie erforscht man Forschungsmethoden? [How do we study research methods?]. Online workshop conducted for the Methods and Evaluation Division of the DGPS, Berlin, Germany, Level: M.Sc.\nIrmer, J. P. (2025, Fall). Strukturgleichungsmodelle in den Bildungswissenschaften: Komplexere Modellierung latenter Variablen in R [Structural equation models in educational sciences: Advanced modeling of latent variables in R]. Two and a Half Day Workshop for GRADE-Education, Goethe-University Frankfurt, Level: PhD.\nIrmer, J. P., & Schultze, M. (2022, Fall). Einführung in die Strukturgleichungsmodellierung mit Mplus [Introduction to structural equation modeling with Mplus]. Two-Day Workshop for GRADE, Goethe-University Frankfurt, Level: PhD."
-  },
-  {
-    "objectID": "workshops/llm-r.html#colloquium-university-of-freiburg---june-2026",
-    "href": "workshops/llm-r.html#colloquium-university-of-freiburg---june-2026",
-    "title": "Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R erleichtern",
-    "section": "Colloquium, University of Freiburg - June 2026",
-    "text": "Colloquium, University of Freiburg - June 2026\nEin bisschen KI schadet nie? LLMs, Prompt Engineering und R-Workflows\nDate: Thursday, June 11, 2026, 10:15–12:00\n\n Slides of Presentation"
-  },
-  {
-    "objectID": "workshops/llm-r.html#colloquium-of-the-department-of-evaluation-of-the-institute-of-psychology-university-of-freiburg---june-2026",
-    "href": "workshops/llm-r.html#colloquium-of-the-department-of-evaluation-of-the-institute-of-psychology-university-of-freiburg---june-2026",
-    "title": "Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R erleichtern",
-    "section": "Colloquium of the Department of Evaluation of the Institute of Psychology, University of Freiburg - June 2026",
-    "text": "Colloquium of the Department of Evaluation of the Institute of Psychology, University of Freiburg - June 2026\nEin bisschen KI schadet nie? LLMs, Prompt Engineering und R-Workflows\nDate: Thursday, June 11, 2026, 10:15–12:00\n\n Slides of Presentation"
   }
 ]

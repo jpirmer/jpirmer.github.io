@@ -14,7 +14,7 @@ Materials for the LLM & R workshop series [in German].
 
 *Ein bisschen KI schadet nie? LLMs, Prompt Engineering und R-Workflows*
 
-**Date:** Thursday, June 11, 2026, 10:15–12:00
+**Date:** Thursday, June 11, 2026, 10:15–12:00, **Audience:** Master-students, PhD-students, Post-Docs & Professors &nbsp;|&nbsp; **Format:** Presentation
 
 - [<i class="fa-solid fa-file-pdf"></i> Slides of Presentation](../assets/workshops/LLMandR/Irmer_AI_2026.pdf){.btn .btn-outline-primary .btn-sm}
 
@@ -22,7 +22,7 @@ Materials for the LLM & R workshop series [in German].
 
 *Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R für typische Fragestellungen der Bildungswissenschaften erleichtern*
 
-**Date:** Tuesday, April 14, 2026, 9:00–17:00 &nbsp;|&nbsp; **Audience:** PhD & Post-Docs &nbsp;|&nbsp; **Format:** One-Day Workshop
+**Date:** Tuesday, April 14, 2026, 9:00–17:00 &nbsp;|&nbsp; **Audience:** PhD-students, Post-Docs & Professors &nbsp;|&nbsp; **Format:** One-Day Workshop
 
 **Slides**
 
@@ -57,7 +57,7 @@ Materials for the LLM & R workshop series [in German].
 *Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R erleichtern*
 
 **Dates:** Part 1: Wednesday, March 11, 2026, 14:00–18:00 &nbsp;|&nbsp; Part 2: Thursday, March 12, 2026, 14:00–18:00  
-**Audience:** PhD & Post-Docs &nbsp;|&nbsp; **Format:** Two-Half-Day Workshop
+**Audience:** PhD-students, Post-Docs, & Professors &nbsp;|&nbsp; **Format:** Two-Half-Day Workshop
 
 ::: {style="font-size:0.9em; color:gray;"}
 *This is an earlier version of the workshop. An updated and extended version was taught at GRADE (above).*
