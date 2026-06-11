@@ -9,6 +9,15 @@ author: "Dr. Julien P. Irmer, M.Sc. Math., M.Sc. Psych."
 Materials for the LLM & R workshop series [in German].
 :::
 
+
+## Colloquium of the Department of Evaluation of the Institute of Psychology, University of Freiburg - June 2026
+
+*Ein bisschen KI schadet nie? LLMs, Prompt Engineering und R-Workflows*
+
+**Date:** Thursday, June 11, 2026, 10:15–12:00
+
+- [<i class="fa-solid fa-file-pdf"></i> Slides of Presentation](../assets/workshops/LLMandR/Irmer_AI_2026.pdf){.btn .btn-outline-primary .btn-sm}
+
 ## GRADE, Goethe-University Frankfurt — April 2026
 
 *Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R für typische Fragestellungen der Bildungswissenschaften erleichtern*
