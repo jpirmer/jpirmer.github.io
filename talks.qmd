@@ -7,6 +7,9 @@ title: "Talks"
 ## 🎤 Invited Talks/Presentations
 :::
 
+- **Irmer, J. P.** (2026, March 26). From nonparametric model selection to model-implied simulation-based power estimation: Towards an adaptive, machine-learning inspired framework for complex structural equation models and beyond [Invited talk]. Society & Choice Research Seminars, University of Basel, Switzerland.  
+
+
 - **Irmer, J. P.** (2025, June 25). From nonparametric model selection to model-implied simulation-based power estimation: A machine-learning-inspired, adaptive simulation framework for complex structural equation models and beyond [Invited talk]. Dynamic Modeling Lab Meeting, Utrecht University, Netherlands.  
 
 - **Irmer, J. P.** (2025, June 10). From model selection to a novel simulation-based power estimation method: Applications to nonlinear SEM [Invited talk]. Kolloquium Psychologische Methodenlehre, Philipps University Marburg, Germany.  
@@ -80,6 +83,17 @@ title: "Talks"
 ::: {.callout-note}
 ## 🎓 Colloquium Presentations
 :::
+
+- **Irmer, J. P.** (2026, June 11). Ein bisschen KI schadet nie? - LLMs, Prompt Engineering und `R`-Workflows [engl. A little AI never hurts? - LLMs, prompt engineering and `R`-workflows, Colloquium presentation]. Department of Evaluation, Unversity of Freiburg, Germany.  [<i class="fa-solid fa-box-open"></i> Materials](workshops/llm-r.qmd){.btn .btn-outline-secondary .btn-sm}
+
+
+- **Irmer, J. P.** (2026, May 11). Einführung in Simulationsstudien: Grundlagen und erste Schritte in `R` [engl. Introduction to simulation studies: Foundations and first steps in `R`, Colloquium presentation]. Department of Evaluation, Unversity of Freiburg, Germany.  
+
+- **Irmer, J. P.** (2026, April 16). Control of baseline confounding in causal panel models: Analytical population-level analyses and simulation results [Colloquium presentation]. Department of Evaluation, Unversity of Freiburg, Germany.  
+
+
+- **Irmer, J. P.** (2026, February 16). Control of baseline confounding in causal panel models: Background and analytical extensions of the Dynamic Panel Model [Colloquium presentation]. Department of Evaluation, Unversity of Freiburg, Germany.  
+
 
 - **Irmer, J. P.** (2025, July 3). Beyond the prompt: Practical AI use in research and teaching [Colloquium presentation]. Department of Psychological Methods, Humboldt-Universität zu Berlin, Germany.  
 
