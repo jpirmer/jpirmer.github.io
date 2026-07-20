@@ -1,0 +1,9 @@
+- 5) Arnold, M., & **Irmer, J. P.** (2026). *ipcr: Individual Parameter Contribution Regression* (Version 0.3.3, development branch) [R package].    GitHub repository.      [https://github.com/manuelarnold/ipcr/tree/dev2](https://github.com/manuelarnold/ipcr/tree/dev2) 💻
+
+- 4) **Irmer, J. P.** (2024). *powerNLSEM: Model-implied simulation-based power estimation (MSPE) for nonlinear structural equation models* (Version 0.1.2) [R package]. [https://doi.org/10.32614/CRAN.package.powerNLSEM](https://doi.org/10.32614/CRAN.package.powerNLSEM) 📄
+
+- 3) **Irmer, J. P.**, & Wallot, S. (2023). *mvDFA: Multivariate Detrended Fluctuation Analysis* (Version 0.0.4) [R package].  [https://doi.org/10.32614/CRAN.package.mvDFA](https://doi.org/10.32614/CRAN.package.mvDFA) 📄
+
+- 2) Schultze, M., **Irmer, J. P.**, & Nehler, K. J. (Eds.). (2022). *PandaR: Praktische Anwendungen der Datenanalyse in R* [Practical ApplicatioNs of Data Analysis in R]. [https://pandar.netlify.app/](https://pandar.netlify.app/) 🌐
+
+- 1) Schmalbach, B., **Irmer, J. P.**, & Schultze, M. (2019). *ezCutoffs: Fit measure cutoffs in SEM* (Version 1.0.1) [R package].  [https://doi.org/10.13140/RG.2.2.16315.77600](https://doi.org/10.13140/RG.2.2.16315.77600) 📄

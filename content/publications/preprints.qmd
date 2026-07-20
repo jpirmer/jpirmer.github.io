@@ -1,0 +1,3 @@
+- 2) Vink, P. A., Mulder, J. D., **Irmer, J. P.**, & Hamaker, E. L. (2026). *How to account for unobserved baseline confounders with time-invariant and time-varying effects in cross-lagged panel research* [Preprint; manuscript submitted for publication]. PsyArXiv. [https://osf.io/preprints/psyarxiv/sdjry_v2](https://osf.io/preprints/psyarxiv/sdjry_v2)  📄
+
+- 1) Uyar, A., **Irmer, J. P.**, Repantis, D., Wolff, M., Lueken, U., & Evens, R. (2026). *Correlates of post-traumatic and perceptual symptoms following challenging psychedelic experiences: A cross-sectional study* [Preprint; manuscript submitted for publication]. ResearchSquare. [DOI](...) 📄

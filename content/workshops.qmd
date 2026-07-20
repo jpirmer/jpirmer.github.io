@@ -1,0 +1,13 @@
+- 7) Frick, S., Siepe, B., & **Irmer, J. P.** (2026, May). *Wie erforscht man Forschungsmethoden?* [How do we study research methods?]. Online workshop conducted for the Methods and Evaluation Section of the DGPs, Berlin, Germany. Level: M.Sc.
+
+- 6) **Irmer, J. P.** (2026, April). *Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R für typische Fragestellungen der Bildungswissenschaften erleichtern* [A little AI never hurt? – How LLMs facilitate R programming for typical questions in educational sciences]. One-day workshop for GRADE, Goethe University Frankfurt. Level: PhD & Post-Doc. 📦 [Materials](workshops/llm-r.qmd)
+
+- 5) **Irmer, J. P.** (2026, March). *Ein bisschen KI schadet nie? – Wie LLMs das Programmieren in R erleichtern* [A little AI never hurt? – How LLMs facilitate R programming]. Two-half-day workshop for the FDZ Spring Academy 2026, Humboldt-Universität zu Berlin. Level: PhD & Post-Doc. 📦 [Materials](workshops/llm-r.qmd)
+
+- 4) **Irmer, J. P.**, & Frick, S. (2025, September). *Mathematische Grundlagen von statistischen Tests und Schätzern für Psycholog:innen* [Mathematical foundations of statistical tests and estimators for psychologists]. Full-day workshop at FGME 2025, Germany. Level: PhD. 🗂️ [Slides](assets/workshops/MathematicalFoundation/JuMi_Workshop_FGME2025.pdf)
+
+- 3) Frick, S., Siepe, B., & **Irmer, J. P.** (2025, May). *Wie erforscht man Forschungsmethoden?* [How do we study research methods?]. Online workshop conducted for the Methods and Evaluation Section of the DGPs, Berlin, Germany. Level: M.Sc.
+
+- 2) **Irmer, J. P.** (2025, Fall). *Strukturgleichungsmodelle in den Bildungswissenschaften: Komplexere Modellierung latenter Variablen in R* [Structural equation models in educational sciences: Advanced modeling of latent variables in R]. Two-and-a-half-day workshop for GRADE-Education, Goethe University Frankfurt. Level: PhD & Post-Doc.
+
+- 1) **Irmer, J. P.**, & Schultze, M. (2022, Fall). *Einführung in die Strukturgleichungsmodellierung mit Mplus* [Introduction to structural equation modeling with Mplus]. Two-day workshop for GRADE, Goethe University Frankfurt. Level: PhD & Post-Doc.

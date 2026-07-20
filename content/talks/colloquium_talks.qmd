@@ -1,0 +1,21 @@
+- 11) **Irmer, J. P.**, Nehler, K. J., & Schultze, M. (2026, July 7). Can ordered-categorical data ever be treated as continuous? A population-level analysis of the impact of ordinal data on network analysis [Colloquium presentation]. Department of Evaluation, University of Freiburg.
+
+- 10) Nehler, K. J., **Irmer, J. P.**, & Schultze, M. (2026, June 30). Ordinale Daten als kontinuierlich behandeln: Konsequenzen für die Schätzung psychologischer Netzwerke [Treating ordinal data as continuous: Consequences for the estimation of psychological networks, Department colloquium presentation]. Department of Psychology, University of Erfurt.
+
+- 9) Nehler, K. J., **Irmer, J. P.**, & Schultze, M. (2026, June 10). Treating ordered-categorical data as continuous: Consequences for sparsity and edge weights in network analysis [Colloquium presentation]. Department of Psychological Methods with Interdisciplinary Focus, Goethe University Frankfurt.
+
+- 8) **Irmer, J. P.** (2026, June 11). Ein bisschen KI schadet nie? – LLMs, Prompt Engineering und `R`-Workflows [A little AI never hurts? – LLMs, prompt engineering, and `R` workflows, Colloquium presentation]. Department of Evaluation, University of Freiburg. [<i class="fa-solid fa-box-open"></i> Materials](workshops/llm-r.qmd){.btn .btn-outline-secondary .btn-sm}
+
+- 7) **Irmer, J. P.** (2026, May 11). Einführung in Simulationsstudien: Grundlagen und erste Schritte in `R` [Introduction to simulation studies: Foundations and first steps in `R`, Colloquium presentation]. Department of Evaluation, University of Freiburg.
+
+- 6) **Irmer, J. P.** (2026, April 16). Control of baseline confounding in causal panel models: Analytical population-level analyses and simulation results [Colloquium presentation]. Department of Evaluation, University of Freiburg.
+
+- 5) **Irmer, J. P.** (2026, February 16). Control of baseline confounding in causal panel models: Background and analytical extensions of the Dynamic Panel Model [Colloquium presentation]. Department of Evaluation, University of Freiburg.
+
+- 4) **Irmer, J. P.** (2025, July 3). Beyond the prompt: Practical AI use in research and teaching [Colloquium presentation]. Department of Psychological Methods, Humboldt-Universität zu Berlin.
+
+- 3) **Irmer, J. P.** (2025, May 15). From simulation studies to simulation-based power analysis: Tools for modern psychological research [Colloquium presentation]. Department of Psychological Methods, Humboldt-Universität zu Berlin.
+
+- 2) **Irmer, J. P.** (2024, August 6). My dissertation and beyond [Colloquium presentation]. Department of Psychological Methods, Humboldt-Universität zu Berlin.
+
+- 1) **Irmer, J. P.** (2022, June 22). Challenges in simulation studies with nonlinear effects, distributional misspecifications, and ordered-categorical data [Colloquium presentation]. Department of Psychological Methods and Evaluation, Goethe University Frankfurt.

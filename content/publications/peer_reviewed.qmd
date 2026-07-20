@@ -1,0 +1,25 @@
+**In press**
+
+- 11) Nestler, S., Humberg, S., Debelak, R., Heck, D. W., Henninger, M., Voelkle, M., Frick, S., **Irmer, J. P.**, Scharf, F., & Frey, A. (in press). Automating the Scientist? Methodische Perspektiven auf die Nutzung von KI in der psychologischen Forschung. *Psychologische Rundschau.* [https://osf.io/preprints/psyarxiv/dqxsu_v1](https://osf.io/preprints/psyarxiv/dqxsu_v1) 📄
+
+- 10) Sperl, M. F. J., Baumgärtner, L., Bach, K. M., Bamberg, C., Behlau, C., Bergmann, B., Bienefeld, M., Bleckmann, E., Danböck, S. K., Dreston, J. H., Eckardt, V. C., Frick, S., Friehs, M.-T., Handke, L., Hein, I., Hutmacher, F., **Irmer, J. P.**, Kause, A., Kern, M., ... & Neef, N. E. (in press). Künstliche Intelligenz bei Abschlussarbeiten, Dissertationen und Habilitationsschriften in der Psychologie – Eine Perspektive der DGPs-Jungmitglieder und Psychologie-Studierenden [Artificial intelligence in bachelor’s, master’s, doctoral, and habilitation theses in psychology: Perspectives of early career members of the German Psychological Society (DGPs) and Psychology students]. *Psychologische Rundschau.*
+
+**Published**
+
+- 9) **Irmer, J. P.**, Schermelleh-Engel, K., & Schmidt, P. (2026). Editorial: Introduction to the special issue "Methodological challenges of complex latent mediator and moderator models". *Behavior Research Methods, 58*(127), 1–9. [10.3758/s13428-026-02985-3](https://doi.org/10.3758/s13428-026-02985-3) 📄
+
+- 8) Escaffi-Schwarz, M., Gempp, R., & **Irmer, J. P.** (2025). Meta-analyzing the factor structure and reliability of measurement instruments: An R-based tutorial. *International Journal of Psychology, 60*(2), 1–9. [10.1002/ijop.70003](https://doi.org/10.1002/ijop.70003) 📄
+
+- 7) **Irmer, J. P.**, Klein, A. G., & Schermelleh-Engel, K. (2024). Model-implied simulation-based power estimation for correctly specified and distributionally misspecified models: Applications to nonlinear and linear structural equation models. *Behavior Research Methods, 56*, 8897–8931. [10.3758/s13428-024-02507-z](https://doi.org/10.3758/s13428-024-02507-z) 📄
+
+- 6) **Irmer, J. P.**, Klein, A. G., & Schermelleh-Engel, K. (2024). Estimating power in complex nonlinear structural equation modeling including moderation effects: The powerNLSEM R-package. *Behavior Research Methods, 56*, 8897–8931. [10.3758/s13428-024-02476-3](https://doi.org/10.3758/s13428-024-02476-3) 📄
+
+- 5) Grønneberg, S.<a href="#shared-first" class="fn">\*</a>, & **Irmer, J. P.<a href="#shared-first" class="fn">\*</a>** (2024). Non-parametric regression among factor scores: Motivation and diagnostics for nonlinear structural equation models. *Psychometrika, 89*(3), 822–850. [10.1007/s11336-024-09959-4](https://doi.org/10.1007/s11336-024-09959-4) 📄
+
+- 4) Wallot, S.<a href="#shared-first" class="fn">\*</a>, **Irmer, J. P.<a href="#shared-first" class="fn">\*</a>**, Tschense, M., Kuznetsov, N., Højlund, A., & Dietz, M. (2023). A multivariate method for dynamic system analysis: Multivariate detrended fluctuation analysis using generalized variance. *Topics in Cognitive Science, 15*(6), 1–18. [10.1111/tops.12688](https://doi.org/10.1111/tops.12688) 📄
+
+- 3) Holman, D., Escaffi-Schwarz, M., Vasquez, C. A., **Irmer, J. P.**, & Zapf, D. (2024). Does job crafting affect employee outcomes via job characteristics? A meta-analytic test of a key job crafting mechanism. *Journal of Occupational and Organizational Psychology, 97*(1), 47–73. [10.1111/joop.12450](https://doi.org/10.1111/joop.12450) 📄
+
+- 2) Ehmann, P., Beavan, A., Spielmann, J., Mayer, J., Altmann, S., Ruf, L., Rohrmann, S., **Irmer, J. P.**, & Englert, E. (2022). Perceptual-cognitive performance of youth soccer players in a 360°-environment: Differences between age groups and performance levels. *Psychology of Sport & Exercise, 59*, 102120. [10.1016/j.psychsport.2021.102120](https://doi.org/10.1016/j.psychsport.2021.102120) 📄
+
+- 1) **Irmer, J. P.**, Kern, M., Schermelleh-Engel, K., Semmer, N. K., & Zapf, D. (2019). ISTA – The instrument for stress oriented job analysis: A meta-analysis. *Zeitschrift für Arbeits- & Organisationspsychologie [German Journal of Work and Organizational Psychology], 63*(4), 217–237. [10.1026/0932-4089/a000312](https://doi.org/10.1026/0932-4089/a000312) 📄

@@ -1,0 +1,21 @@
+- 10) **Irmer, J. P.** (2026, March 26). From nonparametric model selection to model-implied simulation-based power estimation: Towards an adaptive, machine-learning inspired framework for complex structural equation models and beyond [Invited talk]. Society & Choice Research Seminars, University of Basel, Switzerland.  
+
+- 9) **Irmer, J. P.** (2025, September). Model selection and the estimation of statistical power for nonlinear structural equation modeling [Award keynote]. 17th Conference of the Methods & Evaluation Section of the German Psychological Society (DGPs), Berlin, Germany.
+
+- 8) **Irmer, J. P.** (2025, June 25). From nonparametric model selection to model-implied simulation-based power estimation: A machine-learning-inspired, adaptive simulation framework for complex structural equation models and beyond [Invited talk]. Dynamic Modeling Lab Meeting, Utrecht University, Netherlands.  
+
+- 7) **Irmer, J. P.** (2025, June 10). From model selection to a novel simulation-based power estimation method: Applications to nonlinear SEM [Invited talk]. Kolloquium Psychologische Methodenlehre, Philipps University Marburg, Germany.  
+
+- 6) **Irmer, J. P.** (2025, May 14). Model selection and the estimation of statistical power in nonlinear structural equation modeling [Invited presentation]. Presentation before the committee of the *Preis der Vereinigung der Freunde und Förderer der Johann Wolfgang Goethe-Universität e.V.*, Frankfurt, Germany.  
+
+- 5) **Irmer, J. P.** (2025, January). Overcoming the challenges of nonlinear SEM: A novel simulation-based power estimation method [Invited talk]. Department Colloquium, University of Kassel, Germany.  
+
+- 4) **Irmer, J. P.**, & Grønneberg, S. (2023, September). Motivation and diagnostics for nonlinear structural equation models using non-parametric regression among factor scores [Invited talk]. Research Seminar in Data Science, Norwegian Business School, Oslo, Norway.  
+
+- 3) **Irmer, J. P.** (2023, April). On problems and their solutions in nonlinear structural equation modeling [Invited talk]. Research Colloquium, Department of Psychological Methods, Philipps University Marburg, Germany.  
+
+- 2) **Irmer, J. P.** (2022, October). PandaR as an example for open teaching practices [Invited talk]. ReproducibiliTea Frankfurt, Goethe-University Frankfurt, Germany. 🌐 [Slides/OSF](https://osf.io/g2tbw)  
+
+- 1) **Irmer, J. P.** (2021, June). Nichtlineare Strukturgleichungsmodelle [Nonlinear structural equation modeling] [Invited talk]. Research Colloquium, Department of Psychological Methods, Humboldt-Universität zu Berlin, Germany.  
+
+

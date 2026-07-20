@@ -35,8 +35,8 @@ website:
         text: "<i class='fa-brands fa-linkedin' aria-label='LinkedIn' title='LinkedIn'></i>"
       - href: "https://pandar.netlify.app/authors/julien-p.-irmer/"
         text: "<i class='fa-solid fa-code' aria-label='PandaR' title='PandaR'></i>"
-      - href: "https://www.psychology.hu-berlin.de/de/mitarbeiter/1696000"
-        text: "<i class='fa-solid fa-graduation-cap' aria-label='HU Berlin' title='HU Berlin'></i>"
+      - href: "https://uni-freiburg.de/eval/team/dr-julien-p-irmer/"
+        text: "<i class='fa-solid fa-graduation-cap' aria-label='University of Freiburg' title='University of Freiburg'></i>"
 
   page-footer:
     left: |
