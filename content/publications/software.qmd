@@ -1,3 +1,5 @@
+- 6) **Irmer, J. P.** (2026).  *glmLink: Models for Power* (Version 0.5.0, development branch) [R package]. GitHub repository.     [https://github.com/jpirmer/glmLink/tree/dev](https://github.com/jpirmer/glmLink/tree/dev) 💻
+
 - 5) Arnold, M., & **Irmer, J. P.** (2026). *ipcr: Individual Parameter Contribution Regression* (Version 0.3.3, development branch) [R package].    GitHub repository.      [https://github.com/manuelarnold/ipcr/tree/dev2](https://github.com/manuelarnold/ipcr/tree/dev2) 💻
 
 - 4) **Irmer, J. P.** (2024). *powerNLSEM: Model-implied simulation-based power estimation (MSPE) for nonlinear structural equation models* (Version 0.1.2) [R package]. [https://doi.org/10.32614/CRAN.package.powerNLSEM](https://doi.org/10.32614/CRAN.package.powerNLSEM) 📄
