@@ -1,3 +1,5 @@
+- 23) **Irmer, J.P.**, Nehler, K. J., & Schultze, M. (2026, September). Can Ordered-Categorical Data Ever Be Treated as Continuous? Impact on Sparsity and Edge Weight Estimation and Their Consequences for Network Analysis [Conference presentation]. *54rd Congress of the German Psychological Society (DGPS)*, Luxemburg, Luxemburg.  
+
 - 22) Nehler, K. J., **Irmer, J. P.**, & Schultze, M. (2026, July). Why ordinal data can create spurious edges in psychological networks [Conference presentation]. *International Meeting of the Psychometric Society 2026 (IMPS 2026)*, Seoul, Republic of Korea.
 
 - 21) **Irmer, J. P.**, & Voelkle, M. C. (2025, September). No analytical power formula? No problem. A general model-implied simulation-based approach to power estimation for likelihood ratio tests with applications in complex SEM [Conference presentation]. 17th Conference of the Methods & Evaluation Section of the German Psychological Society (DGPs), Berlin, Germany. [Slides](assets/Irmer2025FGME.pdf)
