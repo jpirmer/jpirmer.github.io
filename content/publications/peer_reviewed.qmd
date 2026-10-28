@@ -1,8 +1,8 @@
-**In press**
-
-- 11) Sperl, M. F. J., Baumgärtner, L., Bach, K. M., Bamberg, C., Behlau, C., Bergmann, B., Bienefeld, M., Bleckmann, E., Danböck, S. K., Dreston, J. H., Eckardt, V. C., Frick, S., Friehs, M.-T., Handke, L., Hein, I., Hutmacher, F., **Irmer, J. P.**, Kause, A., Kern, M., ... & Neef, N. E. (in press). Künstliche Intelligenz bei Abschlussarbeiten, Dissertationen und Habilitationsschriften in der Psychologie – Eine Perspektive der DGPs-Jungmitglieder und Psychologie-Studierenden [Artificial intelligence in bachelor’s, master’s, doctoral, and habilitation theses in psychology: Perspectives of early career members of the German Psychological Society (DGPs) and Psychology students]. *Psychologische Rundschau.*
+<!-- **In press** -->
 
 **Published**
+
+- 11) Sperl, M. F. J., Baumgärtner, L., Bach, K. M., Bamberg, C., Behlau, C., Bergmann, B., Bienefeld, M., Bleckmann, E., Danböck, S. K., Dreston, J. H., Eckardt, V. C., Frick, S., Friehs, M.-T., Handke, L., Hein, I., Hutmacher, F., **Irmer, J. P.**, Kause, A., Kern, M., ... & Neef, N. E. (in press). Künstliche Intelligenz bei Abschlussarbeiten, Dissertationen und Habilitationsschriften in der Psychologie – Eine Perspektive der DGPs-Jungmitglieder und Psychologie-Studierenden [Artificial intelligence in bachelor’s, master’s, doctoral, and habilitation theses in psychology: Perspectives of early career members of the German Psychological Society (DGPs) and Psychology students]. *Psychologische Rundschau. 77*(4), 207–215. [https://doi.org/10.1026/0033-3042/a000779](https://doi.org/10.1026/0033-3042/a000779)
 
 - 10) Nestler, S., Humberg, S., Debelak, R., Heck, D. W., Henninger, M., Voelkle, M., Frick, S., **Irmer, J. P.**, Scharf, F., & Frey, A. (2026). Automating the Scientist? Perspektiven der Fachgruppe Methoden und Evaluation auf die Nutzung von KI in der psychologischen Forschung. [Perspectives of the methods and evaluation section on the use of AI in psychological research] *Psychologische Rundschau. 77*(3), 129–135. [https://doi.org/10.1026/0033-3042/a000763](https://doi.org/10.1026/0033-3042/a000763) 📄
 

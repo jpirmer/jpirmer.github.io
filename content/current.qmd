@@ -1,58 +1,56 @@
-🚧 *This page is currently under construction. In the near future, I will share details about my research interests, ongoing projects, and how I approach research and teaching. For a small overview of ongoing projects see below.*
-
-***
-
-A large part of my research focuses on analyzing when and why certain modeling approaches succeed or fail, developing assumptions about performance, and testing whether the conditions under study provide the strongest possible insights.  
+My research develops, evaluates, and implements statistical methods for psychology and the behavioral sciences. A large part of it asks when and why modeling approaches succeed or fail: I derive the conditions under which methods work, test them in simulation studies, and translate the results into practical recommendations and open-source software.
 
 My current projects span several areas:
 
 ::: {.callout-note}
-## 🤖 Artificial Intelligence, Machine Learning, and Software Development
-- Adaptive algorithms and automatization using machine learning  
-- Nonlinear effects and machine learning for causal inference  
-- The use of AI in research and teaching  
-- `R`-package programming and open-source software development  
-:::
-
-::: {.callout-note}
-## 📊 Statistical and Computational Methods
-- (Nonlinear) Structural Equation Modeling (SEM)  
-- Discrete and Continuous Time Modeling (CTSEM, DSEM)  
-- Generalized Linear Mixed-Effects Models & Hierarchical Data Analysis  
-- Non-parametric estimation with and without measurement noise  
+## 📊 Longitudinal, Multilevel, and Latent Variable Modeling
+- Discrete- and continuous-time modeling of dynamic processes (CT-SEM, DSEM)  
+- (Nonlinear) structural equation modeling (SEM)  
+- Generalized linear mixed-effects models and hierarchical data analysis  
+- Nonparametric estimation with and without measurement error  
 - Multivariate modeling of long memory in time series  
 :::
 
 ::: {.callout-note}
-## 🔍 Power Analysis and Model Evaluation
-- Simulation-based power analysis  
+## 🔍 Power Analysis, Study Planning, and Model Evaluation
+- Simulation-based power analysis and sample size planning for complex designs (e.g., longitudinal and multilevel studies)  
 - Model fit and model selection  
 - Model and distributional assumptions and the impact of misspecification  
 :::
 
 ::: {.callout-note}
 ## 🧩 Causality, Heterogeneity, and Psychometrics
-- Approaches to model causal effects in longitudinal data  
-- Approaches for modeling confounding  
-- Parameter heterogeneity (IPC regression, MNLFA)  
+- Causal inference in longitudinal data (e.g., RI-CLPM, dynamic panel models)  
+- Modeling and controlling for confounding  
+- Parameter heterogeneity and measurement invariance (IPC regression, MNLFA)  
 - (Psychometric) network analysis  
 - Selection effects  
-- Approaches to meta-analysis (meta-SEM, heterogeneity in effect sizes)  
+- Meta-analysis (meta-SEM, heterogeneity in effect sizes)  
+:::
+
+::: {.callout-note}
+## 🤖 Artificial Intelligence, Machine Learning, and Software Development
+- Adaptive algorithms and automation using machine learning  
+- Nonlinear effects and machine learning for causal inference  
+- Agentic AI for automating research tasks (e.g., designing, running, and documenting simulation studies)  
+- Transparent and auditable AI research workflows (e.g., source-anchored literature work, AI-assisted coding with a human in the loop)  
+- Generative AI in research, teaching, and statistical consulting  
+- `R` package development and open-source software  
 :::
 
 ::: {.callout-note}
 ## 🌐 Applications and Broader Interests
 - Stress at work and emotional labor strategies (deep acting, surface acting) in the framework of job demands and resources  
-- Mental health and well-being  
+- Mental health and well-being, including the prediction of treatment outcomes  
 - Applications of statistical modeling and methods in:  
   - Psychology  
-  - Medicine  
+  - Medicine and neuroimaging  
   - Biology  
   - Epidemiology  
+  - Educational research  
   - Econometrics  
 :::
 
-
 *✉️ If you are interested in collaborations or consultations, please [feel free to reach out](/impressum/impressum.qmd)!*  
 
-*** 
+***
