@@ -1,4 +1,4 @@
-- 23) **Irmer, J.P.**, Nehler, K. J., & Schultze, M. (2026, September). Can Ordered-Categorical Data Ever Be Treated as Continuous? Impact on Sparsity and Edge Weight Estimation and Their Consequences for Network Analysis [Conference presentation]. *54rd Congress of the German Psychological Society (DGPS)*, Luxemburg, Luxemburg.  
+- 23) **Irmer, J.P.**, Nehler, K. J., & Schultze, M. (2026, September). Can Ordered-Categorical Data Ever Be Treated as Continuous? Impact on Sparsity and Edge Weight Estimation and Their Consequences for Network Analysis [Conference presentation]. *54th Congress of the German Psychological Society (DGPS)*, Luxemburg, Luxemburg.  
 
 - 22) Nehler, K. J., **Irmer, J. P.**, & Schultze, M. (2026, July). Why ordinal data can create spurious edges in psychological networks [Conference presentation]. *International Meeting of the Psychometric Society 2026 (IMPS 2026)*, Seoul, Republic of Korea.
 
